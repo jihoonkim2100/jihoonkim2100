@@ -1,4 +1,8 @@
+`Last updated: 2025-07-28`
+
 ## Hi there 👋
+
+- 🌱 I'm currently learning GitHub and GitHub Actions.
 
 <!--
 **jihoonkim2100/jihoonkim2100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
