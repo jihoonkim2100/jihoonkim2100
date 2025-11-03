@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-- 🌱 I'm currently learning GitHub and GitHub Actions.
+- 🌱 I'm currently working on the structure and function of the Prefrontal Cortex using in vivo MRI
 
 <!--
 **jihoonkim2100/jihoonkim2100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
